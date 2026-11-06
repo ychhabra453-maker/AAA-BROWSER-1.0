@@ -1,0 +1,6 @@
+{
+  "name": "AAA Browser",
+  "description": "Privacy-first dark mode web browser in English (India) with built-in ad & tracker blocking, Google Maps support, pinned bookmarks, and Android Auto driving mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

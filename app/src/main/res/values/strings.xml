@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AAA Browser</string>
+    <string name="locale_badge">English (India) • en-IN</string>
+    <string name="search_or_type_url">Search Google or enter URL…</string>
+    <string name="shield_active">AAA Privacy Shield Active</string>
+    <string name="dark_mode_active">Universal Dark Web Engine</string>
+    <string name="android_auto_mode">Android Auto Driving Console</string>
+    <string name="google_maps_hub">Google Maps &amp; Route Assistant</string>
+    <string name="bookmarks_title">Pinned Bookmarks</string>
+</resources>
